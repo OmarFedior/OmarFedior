@@ -1,14 +1,12 @@
-<h1>Hi! My name is Omar :) </h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="github-header-banner.png" alt="My Banner" width="100%"/>
 </p>
 
-<p>
-  🎓 <b>Studente di Informatica</b> con una passione per il codice pulito (e gli @Override messi al posto giusto).<br>
-  🔍 <b>Persona estremamente curiosa:</b> se qualcosa non funziona, non dormo finché non ho capito il perché.<br>
-  ☕ <b>Convertitore professionista di caffeina in algoritmi:</b> a volte il debug dura più della scrittura del codice.<br>
-  🎮 <b>Appassionato di gaming e tecnologia:</b> nel tempo libero esploro mondi virtuali o cerco di non rompere il mio setup.
+<p align="center">
+  🎓 <b>Computer Science Student</b> with a passion for clean code (and perfectly placed @Overrides).<br>
+  🔍 <b>Extremely curious person:</b> if something doesn't work, I won't sleep until I understand why.<br>
+  ☕ <b>Professional caffeine-to-algorithm converter:</b> sometimes debugging takes longer than the actual coding.<br>
+  🎮 <b>Gaming & Tech enthusiast:</b> exploring virtual worlds or trying not to break my setup in my free time.
 </p>
 
 <hr />
