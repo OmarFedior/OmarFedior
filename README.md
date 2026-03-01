@@ -5,8 +5,6 @@
 <p align="center">
   🎓 <b>Computer Science Student</b> with a passion for clean code (and perfectly placed @Overrides).<br>
   🔍 <b>Extremely curious person:</b> if something doesn't work, I won't sleep until I understand why.<br>
-  ☕ <b>Professional caffeine-to-algorithm converter:</b> sometimes debugging takes longer than the actual coding.<br>
-  🎮 <b>Gaming & Tech enthusiast:</b> exploring virtual worlds or trying not to break my setup in my free time.
 </p>
 
 <hr />
