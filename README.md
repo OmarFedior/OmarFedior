@@ -1,6 +1,17 @@
+<h1>Hi! My name is Omar :) </h1>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+
+<p>
+  🎓 <b>Studente di Informatica</b> con una passione per il codice pulito (e gli @Override messi al posto giusto).<br>
+  🔍 <b>Persona estremamente curiosa:</b> se qualcosa non funziona, non dormo finché non ho capito il perché.<br>
+  ☕ <b>Convertitore professionista di caffeina in algoritmi:</b> a volte il debug dura più della scrittura del codice.<br>
+  🎮 <b>Appassionato di gaming e tecnologia:</b> nel tempo libero esploro mondi virtuali o cerco di non rompere il mio setup.
+</p>
+
+<hr />
 
 <h2> 🚀 &nbsp;Tools I Have Used and Learned</h2>
 <p align="left">
@@ -12,18 +23,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
-
-<!--
-**OmarFedior/OmarFedior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
