@@ -2,9 +2,10 @@
   <img src="github-header-banner.png" alt="My Banner" width="100%"/>
 </p>
 
-<p align="center">
+<p align="left">
   🎓 <b>Computer Science Student</b> with a passion for clean code (and perfectly placed @Overrides).<br>
-  🔍 <b>Extremely curious person:</b> if something doesn't work, I won't sleep until I understand why.<br>
+  🔍 <b>Extremely curious person:</b> I love diving deep into how things work and staying updated with the latest tech.<br>
+  ♟️ <b>Chess player & Book lover:</b> When I'm not coding, you'll probably find me analyzing a match or lost in a good book.
 </p>
 
 <hr />
